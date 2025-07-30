@@ -5,5 +5,5 @@ Practice bug reports for fun
 
 ## Reported Issues
 
-- [Bug 001: Status button unresponsive](bug-001.md)
-- [Bug 002: Text does not wrap properly](bug-002.md)
+- [Bug 001: Status button unresponsive](todolist.me/bug-001.md)
+- [Bug 002: Text does not wrap properly](todolist.me/bug-002.md)
