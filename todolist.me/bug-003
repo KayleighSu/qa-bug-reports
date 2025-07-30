@@ -1,0 +1,22 @@
+markdown
+
+**TITLE:** To Do List Remote not showing List Items
+
+**Steps to Reproduce:**
+1, Click "Remote" Button 
+2. Type in new task
+3. Hit Enter
+
+**Expected Result:**
+A task is added to the to do list
+
+**Actual Result:**
+Nothing happens
+
+**Environment:**
+- Browser: Microsoft Edge
+- OS: Windows 11 Pro
+- CPU: AMD Ryzen 5 7600X 6-Core Processor (4.70GHz)
+- GPU: B650 EAGLE AX
+- RAM: 32GB
+- Display: 3440 x 1440 @ 60Hz
