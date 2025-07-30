@@ -32,3 +32,4 @@ Practice bug reports for fun
 - [Bug 006: Incorrect Information 5](newwindsormusicacademy.com/bug-006.md)
 - [Bug 007: Outdated Information 2](newwindsormusicacademy.com/bug-007.md)
 - [Bug 008: Incorrect Punctuation](newwindsormusicacademy.com/bug-008.md)
+- [Bug 009: Incorrect Information 6](newwindsormusicacademy.com/bug-009.md)
