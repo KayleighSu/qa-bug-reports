@@ -15,3 +15,4 @@ Practice bug reports for fun
 
 - [Bug_001: Logo Sizing](tomiller.com/bug-001.md)
 - [Bug 002: Menu Sizing](tomiller.com/bug-002.md)
+- [Bug 003: Homepage Loads Unstyled Content](tomiller.com/bug-003.md)
