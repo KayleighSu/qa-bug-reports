@@ -28,3 +28,4 @@ Practice bug reports for fun
 - [Bug 002: Incorrect Information](newwindsormusicacademy.com/bug-002.md)
 - [Bug 003: Incorrect Information 2](newwindsormusicacademy.com/bug-003.md)
 - [Bug 004: Incorrect Information 3](newwindsormusicacademy.com/bug-004.md)
+- [Bug 005: Incorrect Information 4](newwindsormusicacademy.com/bug-005.md)
