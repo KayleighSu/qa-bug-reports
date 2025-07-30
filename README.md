@@ -25,3 +25,4 @@ Practice bug reports for fun
 ## Reported Issues
 
 - [Bug 001: Outdated Information](newwindsormusicacademy.com/bug-001.md)
+- [Bug 002: Incorrect Information](newwindsormusicacademy.com/bug-002.md)
