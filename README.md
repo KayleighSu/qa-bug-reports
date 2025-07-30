@@ -17,3 +17,5 @@ Practice bug reports for fun
 - [Bug 002: Menu Sizing](tomiller.com/bug-002.md)
 - [Bug 003: Homepage Loads Unstyled Content](tomiller.com/bug-003.md)
 - [Bug 004: Layout Snapping](tomiller.com/bug-004.md)
+- [Bug 005: "Products and Services" Not Accassible via Keyboard](tomiller.com/bug-005.md)
+- [Bug 006: Ghost Button and Tab Focus Issue on "About Us"](tomiller.com/bug-006.md)
