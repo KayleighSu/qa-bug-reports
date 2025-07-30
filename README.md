@@ -7,3 +7,4 @@ Practice bug reports for fun
 
 - [Bug 001: Status button unresponsive](todolist.me/bug-001.md)
 - [Bug 002: Text does not wrap properly](todolist.me/bug-002.md)
+- [Bug 003: Tasks not adding on remote](todolist.me/bug-003.md)
