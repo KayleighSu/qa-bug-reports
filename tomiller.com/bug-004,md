@@ -1,0 +1,26 @@
+## markdown
+
+**TITLE:** Layout snaps rather than transitions smoothly when resizing browser
+
+**Steps to Reproduce:**
+1. Go to tomiller.com
+2. Resize the browser window width slowly from 1920px to 375px.
+
+**Expected Result:**
+Layout adjusts smoothly between breakpoints, using fluid responsiveness (e.g., gradual content scaling or wrapping)
+
+**Actual Result:**
+Layout snaps abruptly between breakpoints with no visual transition, causing jarring shifts in content size and placement.
+
+## severity: 
+**Low to Medium:** 
+While it doesn't break functionality, it impacts user experience and perceived quality.
+
+**Environment:**
+- Browser: Microsoft Edge
+- OS: Windows 11 Pro
+- CPU: AMD Ryzen 5 7600X 6-Core Processor (4.70GHz)
+- GPU: B650 EAGLE AX
+- RAM: 32GB
+- Monitor Size: 20" (16:9 aspect ratio)
+- Display: 1920 x 1080 @ 60Hz
