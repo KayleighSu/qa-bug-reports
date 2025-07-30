@@ -14,3 +14,4 @@ Practice bug reports for fun
 ## Reported Issues
 
 - [Bug_001: Logo Sizing](tomiller.com/bug-001.md)
+- [Bug 002: Menu Sizing](tomiller.com/bug-002.md)
