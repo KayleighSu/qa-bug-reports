@@ -24,6 +24,7 @@ Practice bug reports for fun
 
 ## Reported Issues
 
+**Issues found on Homepage of site**
 - [Bug 001: Outdated Information](newwindsormusicacademy.com/bug-001.md)
 - [Bug 002: Incorrect Information](newwindsormusicacademy.com/bug-002.md)
 - [Bug 003: Incorrect Information 2](newwindsormusicacademy.com/bug-003.md)
