@@ -1,0 +1,19 @@
+markdown
+
+**TITLE:** Text goes off screen on Microsoft Edge
+
+**Steps to Reproduce:**
+1. Go to https://todolistme.net/
+2. Input a new task with more than 300 characters
+3. Hit Enter
+
+**Expected Result:**
+Text goes to a new line when it hits the edge of the to do list area box.
+
+**Actual Result**
+Text appears to go off screen and is not visible.
+
+**Environment:**
+- Browswer: Microsoft Edge
+- OS: Windows 11 Pro
+- 
