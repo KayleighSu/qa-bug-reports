@@ -19,3 +19,9 @@ Practice bug reports for fun
 - [Bug 004: Layout Snapping](tomiller.com/bug-004.md)
 - [Bug 005: "Products and Services" Not Accessible via Keyboard](tomiller.com/bug-005.md)
 - [Bug 006: Ghost Button and Tab Focus Issue on "About Us"](tomiller.com/bug-006.md)
+
+# NewWindsorMusicAcademy.com Bug Reports
+
+## Reported Issues
+
+- [Bug 001: Outdated Information](newwindsormusicacademy.com/bug-001)
